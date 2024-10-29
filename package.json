@@ -1,0 +1,16 @@
+{
+  "name": "blog-express",
+  "version": "1.0.0",
+  "description": "This is a blog we created for practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Harsha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "path": "^0.12.7"
+  }
+}
